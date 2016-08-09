@@ -1,0 +1,15 @@
+.initial-hide{
+  display: none;
+}
+
+.panel-body{
+  text-align: right;
+}
+
+.main-con{
+  padding: 0 60px 0 0;
+}
+
+p{
+  font-size: 20pt;
+}
